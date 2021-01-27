@@ -13,7 +13,6 @@
 [instagram]: https://www.instagram.com/abi8186_/ 
 [linkedin]: https://www.linkedin.com/in/abhilash-chaparala/
 <br />
-<br />
 <summary>:zap:My GitHub Stats</summary>
 
-  <img align="left" alt=" " src="https://github-readme-stats.codestackr.vercel.app/api?username=abhilashchaparala&show_icons=true&hide_border=true" />
+  <img align="left" alt="WOW" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhilashchaparala&show_icons=true&hide_border=true" />
